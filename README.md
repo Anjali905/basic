@@ -1,0 +1,1 @@
+This project is a basic 3D scene built with Three.js and Vite, featuring a rotating dodecahedron and a flat box. It includes interactive OrbitControls for rotating, zooming, and panning around the scene, and is optimized for responsive resizing. The setup demonstrates foundational skills in 3D geometry, materials, lighting, and animation in a modern web environment
